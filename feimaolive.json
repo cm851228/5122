@@ -1,7 +1,6 @@
 [
-
 {
-        "name": "线更直播",
+        "name": "直播转点播",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js2.txt"
     },
 {
@@ -9,25 +8,18 @@
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg2.txt"
     },
 {
-        "name": "线更油管",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/exo2.txt"
-    },
-{
         "name": "新加坡剧",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live2.txt"
      
     },
 {
-        "name": "线更萌吖",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi2.txt"
+        "name": "线更音乐",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic2.txt"
     },
 {
         "name": "AKTV",
         "url": "http://aktv.space/live.m3u"
-    },
-{
-        "name": "线更音乐",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic2.txt"
     }
+
    
 ]
